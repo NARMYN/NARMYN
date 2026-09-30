@@ -1,6 +1,4 @@
-### Narmeen Sabah Siddiqui
-
-Erasmus Mundus MSc student in Image Processing & Computer Vision (IPCVai), studying in Budapest, Madrid, and Bordeaux. Researcher with the Video Processing and Understanding Lab (UAM).
+Erasmus Mundus MSc student in Image Processing & Computer Vision (IPCVai), studying in Budapest, Madrid, and Bordeaux.
 
 **Research interests:** object re-identification · diffusion models for semantic segmentation · bias in generative models · low-cost vision for underserved communities
 

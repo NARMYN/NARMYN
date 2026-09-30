@@ -1,9 +1,12 @@
-- 👋 Hi, I’m @NARMYN.
-- 👀 I’m interested in Electrical Engineering and Computer Vision.
-- 🌱 I’m currently researching on Diffusion models and Domain adaptation.
-- 💞️ I’m looking to collaborate on any related projects
-- 📫 You can reach me at narmeenistic123@gmail.com and https://www.linkedin.com/in/narmeensabah/
-<!---
-NARMYN/NARMYN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Narmeen Sabah Siddiqui
+
+Erasmus Mundus MSc student in Image Processing & Computer Vision (IPCVai), studying in Budapest, Madrid, and Bordeaux. Researcher with the Video Processing and Understanding Lab (UAM).
+
+**Research interests:** object re-identification · diffusion models for semantic segmentation · bias in generative models · low-cost vision for underserved communities
+
+**Recent**
+- 📄 Workshop paper accepted at ICIP 2026: urban object re-identification (URVAM-ReID2026 challenge)
+- 🔬 Synthetic urban scene generation with LoRA-adapted Stable Diffusion
+- ⚖️ Occupational gender bias in Stable Diffusion via cross-attention maps and CLIP
+
+📫 [email] · [LinkedIn] · [Google Scholar]
